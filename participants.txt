@@ -4,3 +4,10 @@ Finance team
  John 
  Stacy
  Alexander
+
+Finance team 
+ Charles 
+ Lisa 
+ John 
+ Stacy
+ Alexander
